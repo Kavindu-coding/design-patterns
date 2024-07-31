@@ -1,15 +1,16 @@
 package com.observer;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class WeatherData implements Subject {
-    private ArrayList observers;
+    private List<Observer> observers;
     private float temperature;
     private float pressure;
     private float humidity;
 
     public WeatherData(){
-        observers = new ArrayList();
+        this.observers = new ArrayList<>();
     }
 
     @Override
@@ -27,8 +28,7 @@ public class WeatherData implements Subject {
     @Override
     public void notifyObservers() {
         for (int i = 0; i < observers.size(); i++){
-            Observer observer = (Observer)observers.get(i);
-            observer.update(temperature,humidity,pressure);
+            observers.forEach(o -> o.update(temperature,humidity,pressure));
         }
     }
 
@@ -40,6 +40,7 @@ public class WeatherData implements Subject {
         this.pressure = pressure;
         this.humidity = humidity;
         this.temperature = temperature;
+        measurementsChanged();
     }
 
 }
