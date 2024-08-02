@@ -2,8 +2,8 @@ package com.adaptor;
 
 public class Main {
     public static void main(String[] args) {
-        MallardDuck duck = new MallardDuck();
 
+        MallardDuck duck = new MallardDuck();
         WildTurkey turkey = new WildTurkey();
         Duck turkeyAdapter = new TurkeyAdapter(turkey);
 
