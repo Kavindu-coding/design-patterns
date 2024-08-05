@@ -9,6 +9,6 @@ public abstract class PizzaStore {
         pizza.box();
         return pizza;
     }
-    protected abstract Pizza createPizza(String type);
+    abstract Pizza createPizza(String type);
     // other methods here
 }
