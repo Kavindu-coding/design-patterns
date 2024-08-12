@@ -1,0 +1,65 @@
+[33mcommit e496c180c34df74f013270ff199c878d9a96a0ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Mon Aug 12 01:43:32 2024 +0530
+
+    command pattern-geeks for geeks
+
+[33mcommit e9d2f99f12c8119c3eecfa369dce68e9a2a2998c[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Tue Aug 6 23:27:16 2024 +0530
+
+    command pattern added - not completed
+
+[33mcommit ae617f95fe943acf50e3e35c511fd2531b5392d3[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Mon Aug 5 23:36:01 2024 +0530
+
+    factory pattern - working
+
+[33mcommit d6f71c21e5e4fec9ccce6f52a5d7d55aee09ef61[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Sun Aug 4 23:22:37 2024 +0530
+
+    factory pattern- update 1
+
+[33mcommit 24aec6465d9e6951bb8965b17b194598ae6283f1[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Fri Aug 2 22:34:36 2024 +0530
+
+    factory pattern not completed
+
+[33mcommit 22a46ac876bfbaaec446e18fc845338d3b8e61d7[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Thu Aug 1 09:01:42 2024 +0530
+
+    singleton pattern
+
+[33mcommit 7ac5c225f1a6aeb6d78a98e21280a14d3ec128fe[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Wed Jul 31 17:00:32 2024 +0530
+
+    observer fixed
+
+[33mcommit 0ffd483a16d0a2eb6f15e41d44c6af51f9f821bf[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Thu Jul 25 22:12:14 2024 +0530
+
+    Oberver pattern added - not working yet
+
+[33mcommit 1cd28fe754c71dfa3ee78751e79b30a82ed39997[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Thu Jul 25 00:00:13 2024 +0530
+
+    update gitignore file
+
+[33mcommit 98e197fb9ba2634b5a348671131a1bb9d89039a5[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Wed Jul 24 23:56:13 2024 +0530
+
+    add git commands
+
+[33mcommit 7640a87d6c584cd0b536241a0cf1a1ea2c48734a[m[33m ([m[1;31morigin/new-branch2[m[33m, [m[1;32mnew-branch2[m[33m)[m
+Author: Kavindu <kavinduinduwara100@gmail.com>
+Date:   Wed Jul 24 23:20:13 2024 +0530
+
+    create design patterns
